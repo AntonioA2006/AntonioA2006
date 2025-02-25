@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio A</h1>
-<h3 align="center">A passionate frontend developer from mexico</h3>
+<h3 align="center">A Passionate Developer From Mexico</h3>
 
 - 🌱 I’m currently learning **Laravel, React, TailwindCSS**
 
